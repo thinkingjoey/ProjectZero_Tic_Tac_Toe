@@ -1,0 +1,47 @@
+body {
+  background-image: url("http://www.wallpapersxl.com/wallpapers/1920x1080/blue-minimalist/56344/blue-minimalist-whale-56344.jpg");
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  font-family: 'Poiret One', cursive;
+  color: white;
+}
+
+h1{
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 35px;
+  text-align: center;
+  color: #99d6ff;
+}
+.square {
+  height: 150px;
+  width: 150px;
+  background-color: #66b5ff;
+  border-radius: 5px solid black;
+  float: right;
+  padding: 5px;
+  margin: 10px;
+  font-size: 140px;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+#board {
+  height: 540px;
+  width: 540px;
+  background-color: #e6f3ff;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2px;
+  height: 30px;
+  width: 80px;
+  background-color: #cce6ff;
+  border-radius: 4px;
+  font-family: 'Poiret One', cursive;
+  font-size: 22px;
+}
